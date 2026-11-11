@@ -4,6 +4,8 @@
 
 By Martín López Aranburu · Presented at the Barcelona Cybersecurity Congress, November 2026.
 
+**THE CODE IS NOT PUBLISHED TO PREVENT ATTACKS AND ABUSE OF IP CAMERAS WITH THE USE OF THE TOOL**
+
 ## About
 
 This repository contains the write-up ([`rtspoofing-paper.pdf`](rtspoofing-paper.pdf)) for **RTSPoofing**, a working man-in-the-middle tool against the RTSP/RTP pipeline used by most consumer and small-business IP cameras and network video recorders (NVRs).
